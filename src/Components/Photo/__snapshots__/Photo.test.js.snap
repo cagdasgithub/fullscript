@@ -1,0 +1,131 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+Array [
+  <div
+    className="MuiGrid-item-6"
+  >
+    <button
+      className="MuiButtonBase-root-102 Photo-image-2"
+      onBlur={[Function]}
+      onContextMenu={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex="0"
+      type="button"
+    >
+      <img
+        alt="complex"
+        className="Photo-img-4"
+        src="www.google.com"
+      />
+      <span
+        className="MuiTouchRipple-root-176"
+      />
+    </button>
+  </div>,
+  <div
+    className="MuiGrid-container-5 MuiGrid-item-6 MuiGrid-grid-xs-12-45 MuiGrid-grid-sm-true-47"
+  >
+    <div
+      className="MuiGrid-container-5 MuiGrid-item-6 MuiGrid-spacing-xs-16-28 MuiGrid-direction-xs-column-8 MuiGrid-grid-xs-true-33"
+    >
+      <div
+        className="MuiGrid-item-6 MuiGrid-grid-xs-true-33"
+      >
+        <h6
+          className="MuiTypography-root-105 MuiTypography-subtitle1-123 MuiTypography-gutterBottom-132"
+        >
+          test
+        </h6>
+        <p
+          className="MuiTypography-root-105 MuiTypography-body1-114 MuiTypography-gutterBottom-132"
+        >
+          Cagdas
+        </p>
+        <p
+          className="MuiTypography-root-105 MuiTypography-body1-114 MuiTypography-colorTextSecondary-138"
+        >
+          Ottawa
+        </p>
+      </div>
+      <div
+        className="MuiGrid-item-6"
+      >
+        <a
+          aria-label="Add"
+          className="MuiButtonBase-root-102 MuiFab-root-141 Photo-fab-3"
+          href="www.google.com"
+          onBlur={[Function]}
+          onContextMenu={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          role="button"
+          tabIndex="0"
+        >
+          <span
+            className="MuiFab-label-142"
+          >
+            <span
+              aria-hidden="true"
+              className="material-icons MuiIcon-root-151"
+            >
+              add
+            </span>
+          </span>
+          <span
+            className="MuiTouchRipple-root-176"
+          />
+        </a>
+        <button
+          aria-label="Add"
+          className="MuiButtonBase-root-102 MuiFab-root-141 Photo-fab-3"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onContextMenu={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex="0"
+          type="button"
+        >
+          <span
+            className="MuiFab-label-142"
+          >
+            <span
+              aria-hidden="true"
+              className="material-icons MuiIcon-root-151"
+            >
+              email
+            </span>
+          </span>
+          <span
+            className="MuiTouchRipple-root-176"
+          />
+        </button>
+      </div>
+    </div>
+  </div>,
+]
+`;

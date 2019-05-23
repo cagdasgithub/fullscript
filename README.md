@@ -1,3 +1,15 @@
+This project is created with
+-Create React App
+-Material UI
+
+and tested with:
+Jest
+Enzyme
+react-testing-library (For the purpose of testing hooks)
+
+Unfortunately I didn't have enough time to polish it or test everything. 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
